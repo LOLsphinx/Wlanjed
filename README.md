@@ -1,2 +1,5 @@
 # Wlanjed
-Wlan1
+
+Just run INSTALLWLAN.sh
+
+
