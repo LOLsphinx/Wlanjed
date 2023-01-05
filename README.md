@@ -2,4 +2,12 @@
 
 Just run INSTALLWLAN.sh
 
+!MISSING!
+	If u can't run the INSTALLWLAN.sh because of there's no
+password has been set up? Simply run {setpasswd.sh} in Wlanjed repo
+
+	if u don't have jed file in your repo u might-
+run the setpasswd.sh after that u can now run INSTALLWLAN.sh if-
+u want to install wlans in your computer
+
 
