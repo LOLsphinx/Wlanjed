@@ -1,4 +1,4 @@
-# Wlanjed
+# Wifi driver installer for kali linux
 
 Just run INSTALLWLAN.sh
 
